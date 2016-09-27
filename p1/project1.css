@@ -1,0 +1,40 @@
+.TOC
+{
+	
+	border:2px dashed green;
+	margin:20px; 
+	background-color: #FBEC5F;
+	border-radius:10px;
+
+}
+li
+{
+	margin:10px;
+}
+
+body
+{
+	background-color: #F1F1F1;
+}
+.lesson
+{
+ 
+        border:2px dashed green;
+	margin:20px; 
+	font-style: italic;
+	background-color: #12A8E0; 
+	border-radius:10px;
+}
+a
+{
+	margin:10px;
+	font-family:Algerian;
+}
+.image
+{
+    float:right;
+    
+}
+.chapter-3{
+	background-color:#FBEC5F;
+}

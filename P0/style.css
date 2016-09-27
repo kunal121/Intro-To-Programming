@@ -1,0 +1,32 @@
+h1{
+	color:red;
+	font-family:Algerian;
+	text-align:center;
+
+}
+h3{
+	font-family:AR DELANEY;
+
+}
+body{
+	margin:2%;
+	background-color:#CCCCCC;
+}
+div{
+	font-family:Calibri Light;
+
+}
+image{
+	display:flex;
+	}
+h4{
+	font-family:Goudy Old Style;
+}
+li{
+	font-family:Agency FB;
+	font-size:1em;
+}
+span
+{
+     font-size:20px;
+}
